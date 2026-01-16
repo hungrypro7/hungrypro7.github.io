@@ -50,7 +50,7 @@ linkedin_username: chanyoung-lee-784963232
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/cyl_photo.jpg)
+about_profile_image: images/cyl_photo.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Chanyoung Lee.
   I'm interested in Autonomous Driving, Vision AI, Physical AI, Embedded SW and IoT.
