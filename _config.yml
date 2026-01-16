@@ -7,10 +7,10 @@ version: 2
 
 # Personal info
 name: Chanyoung Lee
-title: Vision AI Engineer
-email: cylee2112@gmail.com
+title : Vision AI Engineer
+email : cylee2112@gmail.com
 # email_title: Email (Email title override)
-phone: +82-10-6512-2476
+phone : (+82)10-6512-2476
 # phone_title: Phone (Phone title override)
 # website: https://github.com/hungrypro7
 # website_title: Web (Website title override)
@@ -52,9 +52,8 @@ linkedin_username: chanyoung-lee-784963232
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/cyl_photo3.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name is Chanyoung Lee.
-  I'm interested in Autonomous Driving, Vision AI, Physical AI, Embedded SW and IoT.
-
+  Hello, I’m Chanyoung Lee, a Master’s student in Automotive Engineering at Hanyang University. I'm interested in Vision AI technologies that enhance the safety and intelligence of autonomous vehicles.
+  Building on my practical experience as a Perception Engineer at Vueron Technology and an AI Researcher Intern at Kakao Mobility, I specialize in bridging the gap between sophisticated AI models and the physical world.
 #    - <a href="google.com">Links</a>
 #    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
@@ -64,7 +63,7 @@ content:
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
+                      # other value (or no value) smeans no border will be displayed
         title: Project name
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
@@ -80,34 +79,72 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
   - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+    content: |
+      **Vision AI Researcher (Intern)**  
+      [**Kakao Mobility**](https://www.kakaomobility.com/), Seongnam, Gyeonggi-do, South Korea  
+      DeepAI Team  
+      2025.04 — 2025.12
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      <br>
+
+      **Perception Engineer (Intern)**  
+      [**Vueron Technology**](https://www.vueron.com/), Seoul, South Korea  
+      Vueone Team (Autonomous Driving)  
+      2024.10 — 2025.01
+
+      <br>
+
+      **Student Trainee**  
+      [**Hyundai H-mobility class**](https://h-mobility-class.com/), Seoul, South Korea  
+      Autonomous Driving basic/advanced course  
+      2024.10 — 2025.01
+
+  - title: Education
+    layout: text
+    content: |
+      **M.S. in Automotive Engineering**  
+      **Hanyang University**, Seoul, South Korea  
+      [**IRCV Lab**](https://ircv.hanyang.ac.kr/) (Intelligent Robotics & Computer Vision Lab)  
+      2026.03 — Present
+
+      <br>
+
+      **B.S. in Interdisciplinary Computing Technology (Double : Computer Science)**  
+      **Hanyang University ERICA**, Ansan, Gyeonggi-do, South Korea  
+      2019.03 — 2024.08
+
+  - title: Awards
+    layout: text
+    content: |
+      **2nd Prize**, AI Hackathon (KAMOTON)  
+      **Kakao Mobility**  
+      2025.12
+
+      <br>
+
+      **2nd Prize**, ICT Convergence Capstone Design Competition  
+      **College of Computing, Hanyang University**  
+      2024.05
+
+      <br>
+
+      **1st Prize**, Engineering College Academic Festival  
+      **College of Engineering, Hanyang University**  
+      2023.11
+
+      <br>
+
+      **Best Rookie Award**, University Creative Mobility Competition (1st Place among first-time participating teams, Autonomous Driving Performance Division)  
+      **Korea Automotive Safety Association**  
+      2023.10
+
+      <br>
+
+      **2nd Prize**, 5th SW Startup Makerthon  
+      **College of Computing, Hanyang University**  
+      2023.06
+
 
 # Footer
 footer_show_references: true
