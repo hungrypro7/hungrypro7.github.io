@@ -52,7 +52,7 @@ linkedin_username: chanyoung-lee-784963232
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/cyl_photo3.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I’m Chanyoung Lee, a Master’s student in Automotive Engineering at Hanyang University. I'm interested in Vision AI technologies that enhance the safety and intelligence of autonomous vehicles.
+  Hello, My name is Chanyoung Lee, a Master’s student in Automotive Engineering at Hanyang University. I'm interested in Vision AI technologies that enhance the safety and intelligence of autonomous vehicles.
   Building on my practical experience as a Perception Engineer at Vueron Technology and an AI Researcher Intern at Kakao Mobility, I specialize in bridging the gap between sophisticated AI models and the physical world.
 #    - <a href="google.com">Links</a>
 #    - Images ![alt text](/images/landscape-trees.jpg "Trees")
