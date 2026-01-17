@@ -58,59 +58,83 @@ about_content: | # this will include new lines to allow paragraphs
 #    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) smeans no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+  - title: Projects
+    layout: text
+    content: |-
+      **Vision AI solution for parking lot**  
+      • Object Detection, OCR for parking payment system  
+      • Model Optimization for Jetson, Hailo Device (GPU & NPU)  
+      • Object Tracking for parking lot  
+      <br>
+      **3D pedestrian detection using LiDAR**  
+      • LiDAR data parsing (Ouster & Hesai)  
+      • Segmentation, Clustering, Shape Estimation  
+      • 3D bounding box generation, Rule-based SW for pedestrian detection  
+      <br>
+      **H-mobility class**  
+      • Road Semantic Segmentation, Object Detection using YOLO  
+      • ROS2 for Perception, Planning, Control modules  
+      • Customized PID control for autonomous vehicle  
+      <a href="https://github.com/hungrypro7/H-Mobility-Autonomous-Advanced-Course" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>  
+      <br>
+      **Real-time Digital twin with KT group**  
+      • Object Detection, Object Tracking  
+      • Data pipeline for Digital Twin  
+      • Simulation using Unity  
+      <a href="https://github.com/hungrypro7/KT_digital_twin" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>  
+      <br>
+      **Self-Driving-Car-Cone-Keeping-Assistance-System**  
+      • Sensor fusion (Camera + LiDAR)  
+      • ROS for Perception  
+      • LoRA for E-stop, CAN for steering actuator  
+      <a href="https://github.com/hungrypro7/Self-Driving-Car-Cone-Keeping-Assistance-System" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>  
+      <br>
+      **EV3 Robot Driving**  
+      • Color line detection  
+      • Minimum cost algorithm for path planning  
+      <a href="https://github.com/hungrypro7/Smart-sensor-and-actuator" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+
   - title: Experience
     layout: text
     content: |
       **Vision AI Researcher (Intern)**  
-      [**Kakao Mobility**](https://www.kakaomobility.com/), Seongnam, Gyeonggi-do, South Korea  
       DeepAI Team  
+      [**Kakao Mobility**](https://www.kakaomobility.com/), Seongnam, Gyeonggi-do, South Korea  
       2025.04 — 2025.12
 
       <br>
 
       **Perception Engineer**  
-      [**Vueron Technology**](https://www.vueron.com/), Seoul, South Korea  
       Vueone Team (Autonomous Driving)  
+      [**Vueron Technology**](https://www.vueron.com/), Seoul, South Korea  
       2024.10 — 2025.01
 
       <br>
 
       **Student Trainee**  
+      H-mobility class (Autonomous Driving)  
       [**Hyundai H-mobility class**](https://h-mobility-class.com/), Seoul, South Korea  
-      Autonomous Driving basic/advanced course  
       2024.03 — 2024.07
 
   - title: Education
     layout: text
     content: |
       **M.S. in Automotive Engineering**  
-      **Hanyang University**, Seoul, South Korea  
       [**IRCV Lab**](https://ircv.hanyang.ac.kr/) (Intelligent Robotics & Computer Vision Lab)  
+      **Hanyang University**, Seoul, South Korea  
       2026.03 — Present
 
       <br>
 
-      **B.S. in Interdisciplinary Computing Technology (Double : Computer Science)**  
+      **B.S. in Interdisciplinary Computing Technology, Double in Computer Science**  
       **Hanyang University ERICA**, Ansan, Gyeonggi-do, South Korea  
       2019.03 — 2024.08
 
