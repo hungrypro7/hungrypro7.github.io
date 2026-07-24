@@ -15,7 +15,7 @@ phone : (+82)10-6512-2476
 # phone_title: Phone (Phone title override)
 # website: https://github.com/hungrypro7
 # website_title: Web (Website title override)
-cv_url: /assets/cv.pdf
+# cv_url: /assets/cv.pdf
 
 # Dark Mode (true/false/never)
 darkmode: false
