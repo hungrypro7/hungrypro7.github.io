@@ -176,7 +176,17 @@ content:
   - title: Papers
     layout: text
     content: |
-      Preparing a publications list.
+      **RoboGeo: Benchmarking Camera-Geometry Robustness in Multi-Camera BEV Perception**  
+      **WACV 2027** (IEEE/CVF Winter Conference on Applications of Computer Vision)  
+      Second author  
+      2026.08.10
+
+      <br>
+
+      **From Specialists to Generalists: Knowledge Distillation for E2E Autonomous Driving**  
+      **KSAE 2026 Annual Autumn Conference** (Korean Society of Automotive Engineers)  
+      First author  
+      2026.09.18
 
 # Footer
 footer_show_references: true
