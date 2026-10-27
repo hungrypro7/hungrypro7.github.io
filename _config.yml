@@ -52,7 +52,7 @@ linkedin_username: chanyoung-lee-784963232
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/cyl_photo3.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, My name is Chanyoung Lee, a Master’s student in Automotive Engineering at Hanyang University. I'm interested in E2E Autonomous Driving, with a particular interest in Vision AI that improves the safety and intelligence of self-driving systems.
+  Hello, My name is Chanyoung Lee, a Master’s student in Automotive Engineering at Hanyang University. I'm interested in E2E Planning and Computer Vision, with a particular focus on improving the safety and intelligence of self-driving systems.
 #    - <a href="google.com">Links</a>
 #    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
